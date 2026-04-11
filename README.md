@@ -52,6 +52,7 @@
 
 - [Agent Reach](items/agent-reach.md) - 一个给 AI Agent 补齐跨平台互联网读取能力的开源工具集，统一接入 YouTube、Twitter/X、Reddit、小红书、B站、GitHub 和 RSS 等数据来源。
 - [bb-browser](items/bb-browser.md) - 一个把真实已登录浏览器直接变成 API / CLI / MCP 接口的工具，让 AI Agent 低成本访问多平台内容与交互能力。
+- [engraph](items/engraph.md) - 一个把 Obsidian vault 变成可供 AI agent 调用的本地知识图谱二进制，集成 hybrid search、MCP server 和 HTTP API。
 - [Firecrawl CLI](items/firecrawl-cli.md) - Firecrawl 的命令行接口，可在终端里完成 scrape、crawl、search，并为 AI agent 安装 skills 与 MCP。
 
 ### Workflow Automation
