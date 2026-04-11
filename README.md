@@ -22,12 +22,18 @@
 
 - [aria2](items/aria2.md) - 一个支持 HTTP、FTP、SFTP、BitTorrent 和 Metalink 的轻量级命令行下载工具。
 - [bird](items/bird.md) - 一个面向 Twitter/X 的 CLI，让人类和 AI agents 能在终端里发推、读流和执行社交操作。
+- [Dreamina CLI](items/dreamina-cli.md) - 一个面向 AI agent 的创作命令行工具，可用即梦 / Dreamina 账号完成文生图、文生视频、图生图和图生视频任务。
+- [FFmpeg](items/ffmpeg.md) - 一个功能极强的开源音视频处理工具，支持转码、剪辑、合并、滤镜和流媒体处理。
 - [GitHub CLI](items/github-cli.md) - GitHub 官方命令行工具，把 PR、Issue、Actions 等 GitHub 工作流直接带进终端。
 - [Google Workspace CLI](items/google-workspace-cli.md) - 一个覆盖 Drive、Gmail、Calendar、Sheets、Docs、Chat 等 Google Workspace 能力的统一命令行工具，并内置 AI agent skills。
+- [ImageMagick](items/imagemagick.md) - 一个支持 200 多种格式的图片处理套件，适合在终端里做转换、裁剪、合成和批量自动化处理。
 - [imsg](items/imsg.md) - 一个把 Apple Messages.app 接进终端的 CLI，让 AI agent 能发送和接收短信与 iMessage。
 - [Lark CLI](items/lark-cli.md) - 飞书 / Lark 官方 CLI，覆盖消息、文档、Base、Sheets、Calendar、Mail、Tasks、Meetings 等能力，并面向 humans 与 AI Agents 设计。
+- [ncm-cli](items/ncm-cli.md) - 一个面向网易云音乐的命令行客户端，支持搜索、播放、歌单管理和 TUI 播放器，并可接入 AI agent。
 - [OpenCLI](items/opencli.md) - 一个把网站、浏览器会话、Electron 应用和本地命令行统一暴露给人类与 AI Agent 的自动化 CLI 中枢。
+- [Pandoc](items/pandoc.md) - 一个通用文档格式转换器，支持 Markdown、HTML、LaTeX、PDF、DOCX、EPUB 等多种格式互转。
 - [rclone](items/rclone.md) - 一个覆盖大量云存储与对象存储后端的命令行同步工具，适合在终端里统一做传输、备份、挂载和自动化数据流转。
+- [ripgrep](items/ripgrep.md) - 一个极快的递归文本搜索工具，默认尊重 .gitignore，适合在大型代码库中替代 grep 做模式搜索。
 - [Vercel CLI](items/vercel-cli.md) - Vercel 官方命令行工具，用来在终端里完成项目拉取、开发、部署与环境管理。
 - [wecom-cli](items/wecom-cli.md) - 企业微信开放平台命令行工具，让人类和 AI Agent 都能在终端中操作企业微信。
 - [wttr.in](items/wttr-in.md) - 一个面向终端和脚本的天气服务，可通过 curl 等命令直接返回 ANSI、纯文本、JSON、PNG 和指标格式天气信息。
