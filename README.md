@@ -22,6 +22,7 @@
 
 - [aria2](items/aria2.md) - 一个支持 HTTP、FTP、SFTP、BitTorrent 和 Metalink 的轻量级命令行下载工具。
 - [bird](items/bird.md) - 一个面向 Twitter/X 的 CLI，让人类和 AI agents 能在终端里发推、读流和执行社交操作。
+- [Defuddle](items/defuddle.md) - 一个可从网页或 HTML 中提取正文并输出干净 HTML 或 Markdown 的内容抽取工具，支持浏览器、Node.js 和 CLI 使用。
 - [Dreamina CLI](items/dreamina-cli.md) - 一个面向 AI agent 的创作命令行工具，可用即梦 / Dreamina 账号完成文生图、文生视频、图生图和图生视频任务。
 - [FFmpeg](items/ffmpeg.md) - 一个功能极强的开源音视频处理工具，支持转码、剪辑、合并、滤镜和流媒体处理。
 - [GitHub CLI](items/github-cli.md) - GitHub 官方命令行工具，把 PR、Issue、Actions 等 GitHub 工作流直接带进终端。
@@ -34,6 +35,7 @@
 - [Pandoc](items/pandoc.md) - 一个通用文档格式转换器，支持 Markdown、HTML、LaTeX、PDF、DOCX、EPUB 等多种格式互转。
 - [rclone](items/rclone.md) - 一个覆盖大量云存储与对象存储后端的命令行同步工具，适合在终端里统一做传输、备份、挂载和自动化数据流转。
 - [ripgrep](items/ripgrep.md) - 一个极快的递归文本搜索工具，默认尊重 .gitignore，适合在大型代码库中替代 grep 做模式搜索。
+- [rtk](items/rtk.md) - 一个面向 Claude Code、Cursor、Gemini CLI 等工具的 CLI 代理层，可压缩常见开发命令输出，减少进入模型上下文的 token 开销。
 - [Vercel CLI](items/vercel-cli.md) - Vercel 官方命令行工具，用来在终端里完成项目拉取、开发、部署与环境管理。
 - [wecom-cli](items/wecom-cli.md) - 企业微信开放平台命令行工具，让人类和 AI Agent 都能在终端中操作企业微信。
 - [wttr.in](items/wttr-in.md) - 一个面向终端和脚本的天气服务，可通过 curl 等命令直接返回 ANSI、纯文本、JSON、PNG 和指标格式天气信息。
@@ -52,6 +54,7 @@
 
 - [Agent Reach](items/agent-reach.md) - 一个给 AI Agent 补齐跨平台互联网读取能力的开源工具集，统一接入 YouTube、Twitter/X、Reddit、小红书、B站、GitHub 和 RSS 等数据来源。
 - [bb-browser](items/bb-browser.md) - 一个把真实已登录浏览器直接变成 API / CLI / MCP 接口的工具，让 AI Agent 低成本访问多平台内容与交互能力。
+- [Cloudflare Browser Rendering](items/cloudflare-browser-rendering.md) - Cloudflare Browser Rendering 新增 CDP endpoint 与 MCP client 支持，让现有 Puppeteer、Playwright 和 chrome-devtools-mcp 工具能直接连到 Cloudflare 的远程浏览器。
 - [engraph](items/engraph.md) - 一个把 Obsidian vault 变成可供 AI agent 调用的本地知识图谱二进制，集成 hybrid search、MCP server 和 HTTP API。
 - [Firecrawl CLI](items/firecrawl-cli.md) - Firecrawl 的命令行接口，可在终端里完成 scrape、crawl、search，并为 AI agent 安装 skills 与 MCP。
 
