@@ -6,7 +6,11 @@
 
 - [Agent Reach](items/agent-reach.md) - 一个给 AI Agent 补齐跨平台互联网读取能力的开源工具集，统一接入 YouTube、Twitter/X、Reddit、小红书、B站、GitHub 和 RSS 等数据来源。
 - [agent-browser](items/agent-browser.md) - Vercel Labs 开源的浏览器自动化 CLI，专门给 AI agents 提供网页导航、点击、表单填写、截图、网络拦截和批处理能力。
+- [awesome-connected-cli](items/awesome-connected-cli.md) - 一个把抓取、AI 处理和多平台输出串成一条龙自动化的 CLI 工具箱。
 - [bb-browser](items/bb-browser.md) - 一个把真实已登录浏览器直接变成 API / CLI / MCP 接口的工具，让 AI Agent 低成本访问多平台内容与交互能力。
+- [CC-Switch CLI](items/cc-switch-cli.md) - 一个统一管理 Claude Code、Codex、Gemini、OpenCode 与 OpenClaw 配置、MCP、提示词和环境检查的跨平台 CLI 工具。
+- [CLI-Anything](items/cli-anything.md) - 一个把任意软件快速变成 agent-native CLI 的框架，支持为 Claude Code、Codex、OpenClaw 等代理生成可调用命令层和对应技能定义。
+- [jina-cli](items/jina-cli.md) - 一个把任意网页转换成 LLM 友好输入的 CLI，支持 read 与 search，并可直接接入 Claude Code 或 OpenClaw。
 - [OpenCLI](items/opencli.md) - 一个把网站、浏览器会话、Electron 应用和本地命令行统一暴露给人类与 AI Agent 的自动化 CLI 中枢。
 
 ## 从哪里开始
@@ -21,7 +25,9 @@
 适合直接在终端里调用的 AI CLI 工具和命令行入口。
 
 - [aria2](items/aria2.md) - 一个支持 HTTP、FTP、SFTP、BitTorrent 和 Metalink 的轻量级命令行下载工具。
+- [AutoCLI](items/autocli.md) - 一个让 AI Agent 通过单条命令读取网站、桌面应用和本地 CLI 的 Rust 工具。
 - [bird](items/bird.md) - 一个面向 Twitter/X 的 CLI，让人类和 AI agents 能在终端里发推、读流和执行社交操作。
+- [CLI-Anything](items/cli-anything.md) - 一个把任意软件快速变成 agent-native CLI 的框架，支持为 Claude Code、Codex、OpenClaw 等代理生成可调用命令层和对应技能定义。
 - [Defuddle](items/defuddle.md) - 一个可从网页或 HTML 中提取正文并输出干净 HTML 或 Markdown 的内容抽取工具，支持浏览器、Node.js 和 CLI 使用。
 - [Dreamina CLI](items/dreamina-cli.md) - 一个面向 AI agent 的创作命令行工具，可用即梦 / Dreamina 账号完成文生图、文生视频、图生图和图生视频任务。
 - [FFmpeg](items/ffmpeg.md) - 一个功能极强的开源音视频处理工具，支持转码、剪辑、合并、滤镜和流媒体处理。
@@ -29,6 +35,7 @@
 - [Google Workspace CLI](items/google-workspace-cli.md) - 一个覆盖 Drive、Gmail、Calendar、Sheets、Docs、Chat 等 Google Workspace 能力的统一命令行工具，并内置 AI agent skills。
 - [ImageMagick](items/imagemagick.md) - 一个支持 200 多种格式的图片处理套件，适合在终端里做转换、裁剪、合成和批量自动化处理。
 - [imsg](items/imsg.md) - 一个把 Apple Messages.app 接进终端的 CLI，让 AI agent 能发送和接收短信与 iMessage。
+- [jina-cli](items/jina-cli.md) - 一个把任意网页转换成 LLM 友好输入的 CLI，支持 read 与 search，并可直接接入 Claude Code 或 OpenClaw。
 - [Lark CLI](items/lark-cli.md) - 飞书 / Lark 官方 CLI，覆盖消息、文档、Base、Sheets、Calendar、Mail、Tasks、Meetings 等能力，并面向 humans 与 AI Agents 设计。
 - [ncm-cli](items/ncm-cli.md) - 一个面向网易云音乐的命令行客户端，支持搜索、播放、歌单管理和 TUI 播放器，并可接入 AI agent。
 - [OpenCLI](items/opencli.md) - 一个把网站、浏览器会话、Electron 应用和本地命令行统一暴露给人类与 AI Agent 的自动化 CLI 中枢。
@@ -48,6 +55,12 @@
 - [agent-browser](items/agent-browser.md) - Vercel Labs 开源的浏览器自动化 CLI，专门给 AI agents 提供网页导航、点击、表单填写、截图、网络拦截和批处理能力。
 - [browser-use](items/browser-use.md) - 一个面向 AI agents 的浏览器自动化项目，既提供 Python agent 框架，也提供持久化浏览器 CLI 与 cloud runtime。
 
+### Provider Switching / Routing
+
+适合统一切模型、切 provider、切路由策略的命令行工具。
+
+- [CC-Switch CLI](items/cc-switch-cli.md) - 一个统一管理 Claude Code、Codex、Gemini、OpenCode 与 OpenClaw 配置、MCP、提示词和环境检查的跨平台 CLI 工具。
+
 ### MCP / Tooling
 
 适合在终端里管理 MCP、工具接入和 agent 扩展能力。
@@ -63,6 +76,7 @@
 适合把终端 AI 能力串进脚本、任务流和批处理流程。
 
 - [1Password SSH](items/onepassword-ssh.md) - 1Password 的 SSH 与 Git 集成功能，可把密钥管理、签名和终端认证流程整合进开发者与 agent 的命令行工作流。
+- [awesome-connected-cli](items/awesome-connected-cli.md) - 一个把抓取、AI 处理和多平台输出串成一条龙自动化的 CLI 工具箱。
 - [notebooklm-py](items/notebooklm-py.md) - NotebookLM 的非官方 Python API 与 CLI，支持程序化访问、agentic skill 和本地自动化。
 - [Obsidian CLI](items/obsidian-cli.md) - Obsidian 官方命令行接口，把知识库读写、TUI、无头同步和自动化工作流带进终端与脚本环境。
 
@@ -74,7 +88,6 @@
 
 ## 后续补充方向
 
-- `Provider Switching / Routing`: 适合统一切模型、切 provider、切路由策略的命令行工具。
 - `Prompt / Context Management`: 适合维护提示词、上下文模板和会话输入资产。
 - `Observability / Usage`: 适合查看 token、成本、日志、使用量和 agent 运行状态。
 
