@@ -1,11 +1,8 @@
 ---
 title: "Shopify AI Toolkit"
-slug: "shopify-ai-toolkit"
-info_type: "awesome-cli-for-ai"
 entity_type: "tool"
 category: "MCP / Tooling"
-featured: false
-last_reviewed_at: "2026-04-13T00:00:00+00:00"
+last_reviewed_at: "2026-04-13"
 ---
 
 # Shopify AI Toolkit

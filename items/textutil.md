@@ -1,11 +1,8 @@
 ---
 title: "textutil"
-slug: "textutil"
-info_type: "awesome-cli-for-ai"
 entity_type: "tool"
 category: "CLI Tools"
-featured: false
-last_reviewed_at: "2026-04-12T00:00:00+00:00"
+last_reviewed_at: "2026-04-12"
 ---
 
 # textutil

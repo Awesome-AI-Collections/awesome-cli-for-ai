@@ -1,11 +1,8 @@
 ---
 title: "jina-cli"
-slug: "jina-cli"
-info_type: "awesome-cli-for-ai"
 entity_type: "tool"
 category: "CLI Tools"
-featured: true
-last_reviewed_at: "2026-04-09T00:00:00+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # jina-cli

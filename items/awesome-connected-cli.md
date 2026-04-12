@@ -1,11 +1,8 @@
 ---
 title: "awesome-connected-cli"
-slug: "awesome-connected-cli"
-info_type: "awesome-cli-for-ai"
 entity_type: "tool"
 category: "Workflow Automation"
-featured: true
-last_reviewed_at: "2026-04-09T00:00:00+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # awesome-connected-cli

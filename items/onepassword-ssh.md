@@ -1,11 +1,8 @@
 ---
 title: "1Password SSH"
-slug: "onepassword-ssh"
-info_type: "awesome-cli-for-ai"
 entity_type: "tool"
 category: "Workflow Automation"
-featured: false
-last_reviewed_at: "2026-04-11T00:00:00+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # 1Password SSH

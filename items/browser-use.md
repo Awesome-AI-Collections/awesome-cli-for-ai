@@ -1,11 +1,8 @@
 ---
 title: "browser-use"
-slug: "browser-use"
-info_type: "awesome-cli-for-ai"
 entity_type: "tool"
 category: "Agent Shells"
-featured: false
-last_reviewed_at: "2026-04-11T00:00:00+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # browser-use

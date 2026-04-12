@@ -1,11 +1,8 @@
 ---
 title: "CC-Switch CLI"
-slug: "cc-switch-cli"
-info_type: "awesome-cli-for-ai"
 entity_type: "tool"
 category: "Provider Switching / Routing"
-featured: true
-last_reviewed_at: "2026-04-08T00:00:00+00:00"
+last_reviewed_at: "2026-04-08"
 ---
 
 # CC-Switch CLI
