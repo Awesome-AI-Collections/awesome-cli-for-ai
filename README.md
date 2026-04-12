@@ -71,6 +71,7 @@
 - [Cloudflare Browser Rendering](items/cloudflare-browser-rendering.md) - Cloudflare Browser Rendering 新增 CDP endpoint 与 MCP client 支持，让现有 Puppeteer、Playwright 和 chrome-devtools-mcp 工具能直接连到 Cloudflare 的远程浏览器。
 - [engraph](items/engraph.md) - 一个把 Obsidian vault 变成可供 AI agent 调用的本地知识图谱二进制，集成 hybrid search、MCP server 和 HTTP API。
 - [Firecrawl CLI](items/firecrawl-cli.md) - Firecrawl 的命令行接口，可在终端里完成 scrape、crawl、search，并为 AI agent 安装 skills 与 MCP。
+- [Shopify AI Toolkit](items/shopify-ai-toolkit.md) - Shopify 官方的 AI 工具接入方案，支持通过 plugin、skills 或 MCP 把平台文档、API schema、代码校验和店铺操作能力接入 agent 工具链。
 
 ### Workflow Automation
 
