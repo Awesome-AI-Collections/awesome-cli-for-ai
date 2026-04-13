@@ -2,7 +2,7 @@
 title: "bb-browser"
 entity_type: "tool"
 category: "MCP / Tooling"
-last_reviewed_at: "2026-04-11"
+last_reviewed_at: "2026-04-14"
 ---
 
 # bb-browser
@@ -29,6 +29,12 @@ last_reviewed_at: "2026-04-11"
 - 登录态复用：天然带上用户已有账号状态，减少重新认证成本
 - CLI / MCP 兼容：适合作为 Agent 的统一调用接口层
 - 多平台适配：覆盖多个主流内容平台与常见搜索场景
+
+## 最近版本观察
+
+- 2026-04-14 查看 releases 后，当前可见最新版本为 `v0.11.3`
+- `v0.11.x` 这几版重点在统一 CLI / MCP 命令注册、保留结构化错误，以及增强本地 adapter 覆盖提示
+- `v0.11.0` 是明显的架构拐点：去掉 Chrome Extension 依赖，改成 CDP 直连，并补了 network / console / errors 调试能力
 
 ## 典型使用场景
 

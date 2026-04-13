@@ -2,7 +2,7 @@
 title: "AutoCLI"
 entity_type: "tool"
 category: "CLI Tools"
-last_reviewed_at: "2026-04-10"
+last_reviewed_at: "2026-04-14"
 ---
 
 # AutoCLI
@@ -28,6 +28,12 @@ last_reviewed_at: "2026-04-10"
 - 站点适配：内置 55+ 站点与数百条命令，覆盖社媒、社区和内容平台
 - 本地工具接入：可把 `gh`、`docker`、`kubectl` 等 CLI 纳入同一套调用面
 - AI 辅助发现：支持探索站点接口、生成适配器和扩展采集规则
+
+## 最近版本观察
+
+- 2026-04-14 查看后，当前可见最新 release 为 `v0.3.7`
+- 项目已明确从 `opencli-rs` 更名为 `AutoCLI`
+- 当前 README 的核心叙事不再只是“Rust 重写更快”，而是把 `autocli.ai` 的 adapter marketplace、`generate --ai`、Chrome Extension selector 与本地云同步整合成完整产品形态
 
 ## 典型使用场景
 
