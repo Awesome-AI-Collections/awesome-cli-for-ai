@@ -29,6 +29,7 @@
 - [bird](items/bird.md) - 一个面向 Twitter/X 的 CLI，让人类和 AI agents 能在终端里发推、读流和执行社交操作。
 - [CLI-Anything](items/cli-anything.md) - 一个把任意软件快速变成 agent-native CLI 的框架，支持为 Claude Code、Codex、OpenClaw 等代理生成可调用命令层和对应技能定义。
 - [Defuddle](items/defuddle.md) - 一个可从网页或 HTML 中提取正文并输出干净 HTML 或 Markdown 的内容抽取工具，支持浏览器、Node.js 和 CLI 使用。
+- [DingTalk Workspace CLI](items/dingtalk-workspace-cli.md) - 钉钉官方的企业工作台 CLI，可让人类和 AI agents 以结构化方式访问企业数据、自动化工作流并保持审计边界。
 - [Dreamina CLI](items/dreamina-cli.md) - 一个面向 AI agent 的创作命令行工具，可用即梦 / Dreamina 账号完成文生图、文生视频、图生图和图生视频任务。
 - [FFmpeg](items/ffmpeg.md) - 一个功能极强的开源音视频处理工具，支持转码、剪辑、合并、滤镜和流媒体处理。
 - [GitHub CLI](items/github-cli.md) - GitHub 官方命令行工具，把 PR、Issue、Actions 等 GitHub 工作流直接带进终端。
@@ -38,6 +39,7 @@
 - [jina-cli](items/jina-cli.md) - 一个把任意网页转换成 LLM 友好输入的 CLI，支持 read 与 search，并可直接接入 Claude Code 或 OpenClaw。
 - [Lark CLI](items/lark-cli.md) - 飞书 / Lark 官方 CLI，覆盖消息、文档、Base、Sheets、Calendar、Mail、Tasks、Meetings 等能力，并面向 humans 与 AI Agents 设计。
 - [ncm-cli](items/ncm-cli.md) - 一个面向网易云音乐的命令行客户端，支持搜索、播放、歌单管理和 TUI 播放器，并可接入 AI agent。
+- [OfficeCLI](items/officecli.md) - 一个让 AI agents 直接读取、编辑和生成 Word、Excel、PowerPoint 文件的 Office 自动化 CLI，无需安装 Microsoft Office。
 - [OpenCLI](items/opencli.md) - 一个把网站、浏览器会话、Electron 应用和本地命令行统一暴露给人类与 AI Agent 的自动化 CLI 中枢。
 - [Pandoc](items/pandoc.md) - 一个通用文档格式转换器，支持 Markdown、HTML、LaTeX、PDF、DOCX、EPUB 等多种格式互转。
 - [rclone](items/rclone.md) - 一个覆盖大量云存储与对象存储后端的命令行同步工具，适合在终端里统一做传输、备份、挂载和自动化数据流转。
