@@ -86,6 +86,8 @@
 
 适合增强终端交互体验、可视化、多会话与工作区切换。
 
+- [Ghostty](items/ghostty.md) - 一个强调原生 UI、性能和现代终端体验的终端应用，适合承载 AI agent TUI、长会话 shell 与 terminal-first 工作流。
+- [iTerm2](items/iterm2.md) - macOS 上成熟稳定的高级终端应用，适合作为 AI CLI、agent TUI 和多会话终端工作流的基础底座。
 - [Mosh](items/mosh.md) - 一个面向不稳定网络环境的移动终端 shell，用更稳的远程会话、漫游和本地回显体验替代传统交互式 SSH。
 
 ## 后续补充方向
