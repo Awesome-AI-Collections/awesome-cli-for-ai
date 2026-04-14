@@ -79,6 +79,12 @@
 - [OneCLI](items/onecli.md) - 一个给 AI agents 统一管理和注入 API 密钥的开源凭据网关，让 agents 用占位符调用服务而不直接接触真实 secrets。
 - [Shopify AI Toolkit](items/shopify-ai-toolkit.md) - Shopify 官方的 AI 工具接入方案，支持通过 plugin、skills 或 MCP 把平台文档、API schema、代码校验和店铺操作能力接入 agent 工具链。
 
+### Prompt / Context Management
+
+适合维护提示词、上下文模板和会话输入资产。
+
+- [Khazix Skills](items/khazix-skills.md) - 一个把深度研究与长文写作方法论沉淀成 prompts 和可安装 skills 的开源仓库，适合给 Claude Code、Codex、OpenClaw 等 agent 直接装配方法论能力。
+
 ### Workflow Automation
 
 适合把终端 AI 能力串进脚本、任务流和批处理流程。
@@ -96,7 +102,6 @@
 
 ## 后续补充方向
 
-- `Prompt / Context Management`: 适合维护提示词、上下文模板和会话输入资产。
 - `Observability / Usage`: 适合查看 token、成本、日志、使用量和 agent 运行状态。
 
 ## 收录标准
