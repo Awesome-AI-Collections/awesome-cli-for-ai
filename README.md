@@ -32,6 +32,7 @@
 - [DingTalk Workspace CLI](items/dingtalk-workspace-cli.md) - 钉钉官方的企业工作台 CLI，可让人类和 AI agents 以结构化方式访问企业数据、自动化工作流并保持审计边界。
 - [Dreamina CLI](items/dreamina-cli.md) - 一个面向 AI agent 的创作命令行工具，可用即梦 / Dreamina 账号完成文生图、文生视频、图生图和图生视频任务。
 - [FFmpeg](items/ffmpeg.md) - 一个功能极强的开源音视频处理工具，支持转码、剪辑、合并、滤镜和流媒体处理。
+- [gh-stack](items/gh-stack.md) - 一个面向 stacked PR 工作流的 GitHub CLI extension，帮助开发者把大改动拆成多层可审查 PR，并自动处理分支、rebase、push 和 PR 基线关系。
 - [GhostVM](items/ghostvm.md) - 一个通过 GhostVM 工作区与 `vmctl` 命令面管理隔离 macOS 环境的工具，适合给 AI agents 和开发任务分配独立 workspace。
 - [GitHub CLI](items/github-cli.md) - GitHub 官方命令行工具，把 PR、Issue、Actions 等 GitHub 工作流直接带进终端。
 - [Google Workspace CLI](items/google-workspace-cli.md) - 一个覆盖 Drive、Gmail、Calendar、Sheets、Docs、Chat 等 Google Workspace 能力的统一命令行工具，并内置 AI agent skills。
