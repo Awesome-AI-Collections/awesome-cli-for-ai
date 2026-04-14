@@ -32,6 +32,7 @@
 - [DingTalk Workspace CLI](items/dingtalk-workspace-cli.md) - 钉钉官方的企业工作台 CLI，可让人类和 AI agents 以结构化方式访问企业数据、自动化工作流并保持审计边界。
 - [Dreamina CLI](items/dreamina-cli.md) - 一个面向 AI agent 的创作命令行工具，可用即梦 / Dreamina 账号完成文生图、文生视频、图生图和图生视频任务。
 - [FFmpeg](items/ffmpeg.md) - 一个功能极强的开源音视频处理工具，支持转码、剪辑、合并、滤镜和流媒体处理。
+- [GhostVM](items/ghostvm.md) - 一个通过 GhostVM 工作区与 `vmctl` 命令面管理隔离 macOS 环境的工具，适合给 AI agents 和开发任务分配独立 workspace。
 - [GitHub CLI](items/github-cli.md) - GitHub 官方命令行工具，把 PR、Issue、Actions 等 GitHub 工作流直接带进终端。
 - [Google Workspace CLI](items/google-workspace-cli.md) - 一个覆盖 Drive、Gmail、Calendar、Sheets、Docs、Chat 等 Google Workspace 能力的统一命令行工具，并内置 AI agent skills。
 - [ImageMagick](items/imagemagick.md) - 一个支持 200 多种格式的图片处理套件，适合在终端里做转换、裁剪、合成和批量自动化处理。
@@ -73,6 +74,8 @@
 - [Cloudflare Browser Rendering](items/cloudflare-browser-rendering.md) - Cloudflare Browser Rendering 新增 CDP endpoint 与 MCP client 支持，让现有 Puppeteer、Playwright 和 chrome-devtools-mcp 工具能直接连到 Cloudflare 的远程浏览器。
 - [engraph](items/engraph.md) - 一个把 Obsidian vault 变成可供 AI agent 调用的本地知识图谱二进制，集成 hybrid search、MCP server 和 HTTP API。
 - [Firecrawl CLI](items/firecrawl-cli.md) - Firecrawl 的命令行接口，可在终端里完成 scrape、crawl、search，并为 AI agent 安装 skills 与 MCP。
+- [FlowMind for Claude](items/flowmind-for-claude.md) - 一个把 FlowMind 任务与笔记系统接进 Claude Code 和 MCP 客户端的 skill / MCP 工具，让你在终端里直接管理 goals、tasks、notes 与 people。
+- [KBB](items/kbb.md) - 一个面向 Claude Code 的知识库文章生成 CLI / MCP：把研究、资料采集、MarkItDown 转换、画图和发布串成一条命令式流水线。
 - [OneCLI](items/onecli.md) - 一个给 AI agents 统一管理和注入 API 密钥的开源凭据网关，让 agents 用占位符调用服务而不直接接触真实 secrets。
 - [Shopify AI Toolkit](items/shopify-ai-toolkit.md) - Shopify 官方的 AI 工具接入方案，支持通过 plugin、skills 或 MCP 把平台文档、API schema、代码校验和店铺操作能力接入 agent 工具链。
 
