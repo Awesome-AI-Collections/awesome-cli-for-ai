@@ -92,8 +92,10 @@
 
 - [1Password SSH](items/onepassword-ssh.md) - 1Password 的 SSH 与 Git 集成功能，可把密钥管理、签名和终端认证流程整合进开发者与 agent 的命令行工作流。
 - [awesome-connected-cli](items/awesome-connected-cli.md) - 一个把抓取、AI 处理和多平台输出串成一条龙自动化的 CLI 工具箱。
+- [Logo Generator Skill](items/logo-generator-skill.md) - 一个面向 Claude Code 等宿主的品牌设计 skill，可让 agent 直接生成 SVG logo 方案和展示图。
 - [notebooklm-py](items/notebooklm-py.md) - NotebookLM 的非官方 Python API 与 CLI，支持程序化访问、agentic skill 和本地自动化。
 - [Obsidian CLI](items/obsidian-cli.md) - Obsidian 官方命令行接口，把知识库读写、TUI、无头同步和自动化工作流带进终端与脚本环境。
+- [Show Me The Money](items/show-me-the-money.md) - 一个给 Claude Code 和 Codex CLI 用的商业变现技能包，用 `/money` 等 workflow 把点子推进到客户与收入动作。
 
 ### Terminal UX
 
