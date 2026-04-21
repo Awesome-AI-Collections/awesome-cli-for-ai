@@ -51,6 +51,7 @@
 - [Vercel CLI](items/vercel-cli.md) - Vercel 官方命令行工具，用来在终端里完成项目拉取、开发、部署与环境管理。
 - [wecom-cli](items/wecom-cli.md) - 企业微信开放平台命令行工具，让人类和 AI Agent 都能在终端中操作企业微信。
 - [wttr.in](items/wttr-in.md) - 一个面向终端和脚本的天气服务，可通过 curl 等命令直接返回 ANSI、纯文本、JSON、PNG 和指标格式天气信息。
+- [xurl](items/xurl.md) - 一个面向 X API 的 curl 风格命令行客户端，支持多 app、多账号和 OAuth 流程，适合把社交平台接口接进 agent 或终端自动化流程。
 - [yt-dlp](items/yt-dlp.md) - 一个功能很全的命令行音视频下载器，适合自动化拉取网页媒体内容。
 
 ### Agent Shells
@@ -58,6 +59,7 @@
 适合把 AI agent 长时间运行在 shell / terminal 工作流里的工具。
 
 - [agent-browser](items/agent-browser.md) - Vercel Labs 开源的浏览器自动化 CLI，专门给 AI agents 提供网页导航、点击、表单填写、截图、网络拦截和批处理能力。
+- [Browser Harness](items/browser-harness.md) - 一个直接连 Chrome CDP 的自愈式浏览器 harness，允许 Claude Code / Codex 在任务中动态补 helper，适合真实浏览器网页任务。
 - [browser-use](items/browser-use.md) - 一个面向 AI agents 的浏览器自动化项目，既提供 Python agent 框架，也提供持久化浏览器 CLI 与 cloud runtime。
 
 ### Provider Switching / Routing
