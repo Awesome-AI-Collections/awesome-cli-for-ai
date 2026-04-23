@@ -86,6 +86,7 @@
 
 适合维护提示词、上下文模板和会话输入资产。
 
+- [DESIGN.md](items/design-md.md) - Google Labs 推出的开放设计规范与 CLI，用一份 `DESIGN.md` 同时描述 design tokens 和设计 rationale，帮助 coding agents 更稳定地继承同一套视觉系统。
 - [AI Agent Skills](items/ai-agent-skills.md) - 一个跨 agent 的 skill 发现与安装 CLI，用 `npx ai-agent-skills` 就能搜索、浏览并安装适配 Claude Code、Codex、Cursor、VS Code 等环境的 skills。
 - [Khazix Skills](items/khazix-skills.md) - 一个把深度研究与长文写作方法论沉淀成 prompts 和可安装 skills 的开源仓库，适合给 Claude Code、Codex、OpenClaw 等 agent 直接装配方法论能力。
 
