@@ -79,6 +79,7 @@
 - [Firecrawl CLI](items/firecrawl-cli.md) - Firecrawl 的命令行接口，可在终端里完成 scrape、crawl、search，并为 AI agent 安装 skills 与 MCP。
 - [FlowMind for Claude](items/flowmind-for-claude.md) - 一个把 FlowMind 任务与笔记系统接进 Claude Code 和 MCP 客户端的 skill / MCP 工具，让你在终端里直接管理 goals、tasks、notes 与 people。
 - [KBB](items/kbb.md) - 一个面向 Claude Code 的知识库文章生成 CLI / MCP：把研究、资料采集、MarkItDown 转换、画图和发布串成一条命令式流水线。
+- [n8n-MCP](items/n8n-mcp.md) - 一个把 n8n 节点文档、模板、校验与工作流操作暴露给 Claude、Codex、Cursor 等客户端的 MCP server 和 agent 工具层。
 - [OneCLI](items/onecli.md) - 一个给 AI agents 统一管理和注入 API 密钥的开源凭据网关，让 agents 用占位符调用服务而不直接接触真实 secrets。
 - [Shopify AI Toolkit](items/shopify-ai-toolkit.md) - Shopify 官方的 AI 工具接入方案，支持通过 plugin、skills 或 MCP 把平台文档、API schema、代码校验和店铺操作能力接入 agent 工具链。
 
@@ -94,10 +95,10 @@
 
 - [1Password SSH](items/onepassword-ssh.md) - 1Password 的 SSH 与 Git 集成功能，可把密钥管理、签名和终端认证流程整合进开发者与 agent 的命令行工作流。
 - [awesome-connected-cli](items/awesome-connected-cli.md) - 一个把抓取、AI 处理和多平台输出串成一条龙自动化的 CLI 工具箱。
-- [Logo Generator Skill](items/logo-generator-skill.md) - 一个面向 Claude Code 等宿主的品牌设计 skill，可让 agent 直接生成 SVG logo 方案和展示图。
+- [Logo Generator Skill](items/logo-generator-skill.md) - 一个面向 Claude Code 等 agent 宿主的品牌设计 skill，可让 AI 直接生成多套 SVG logo 方案和展示图，把品牌视觉探索放回终端工作流。
 - [notebooklm-py](items/notebooklm-py.md) - NotebookLM 的非官方 Python API 与 CLI，支持程序化访问、agentic skill 和本地自动化。
 - [Obsidian CLI](items/obsidian-cli.md) - Obsidian 官方命令行接口，把知识库读写、TUI、无头同步和自动化工作流带进终端与脚本环境。
-- [Show Me The Money](items/show-me-the-money.md) - 一个给 Claude Code 和 Codex CLI 用的商业变现技能包，用 `/money` 等 workflow 把点子推进到客户与收入动作。
+- [Show Me The Money](items/show-me-the-money.md) - 一个面向 Claude Code 和 Codex CLI 的商业变现技能包，用 slash command 和固定 workflow 把点子、产品、客户与收入动作串起来。
 
 ### Terminal UX
 
