@@ -61,6 +61,7 @@
 - [agent-browser](items/agent-browser.md) - Vercel Labs 开源的浏览器自动化 CLI，专门给 AI agents 提供网页导航、点击、表单填写、截图、网络拦截和批处理能力。
 - [Browser Harness](items/browser-harness.md) - 一个直接连 Chrome CDP 的自愈式浏览器 harness，允许 Claude Code / Codex 在任务中动态补 helper，适合真实浏览器网页任务。
 - [browser-use](items/browser-use.md) - 一个面向 AI agents 的浏览器自动化项目，既提供 Python agent 框架，也提供持久化浏览器 CLI 与 cloud runtime。
+- [Ruflo](items/ruflo.md) - 一个围绕 Claude Code 的多 agent orchestration shell，提供 CLI、MCP、hooks、plugins 和 memory / swarm / federation 能力，把单 agent coding 会话扩成可持续协作的终端系统。
 
 ### Provider Switching / Routing
 
@@ -95,6 +96,7 @@
 
 - [1Password SSH](items/onepassword-ssh.md) - 1Password 的 SSH 与 Git 集成功能，可把密钥管理、签名和终端认证流程整合进开发者与 agent 的命令行工作流。
 - [awesome-connected-cli](items/awesome-connected-cli.md) - 一个把抓取、AI 处理和多平台输出串成一条龙自动化的 CLI 工具箱。
+- [Keep Codex Fast](items/keep-codex-fast.md) - 一个面向 Codex 的 backup-first 维护 skill，把 handoff、归档、备份和本地状态整理串成更安全的终端维护工作流。
 - [Logo Generator Skill](items/logo-generator-skill.md) - 一个面向 Claude Code 等 agent 宿主的品牌设计 skill，可让 AI 直接生成多套 SVG logo 方案和展示图，把品牌视觉探索放回终端工作流。
 - [notebooklm-py](items/notebooklm-py.md) - NotebookLM 的非官方 Python API 与 CLI，支持程序化访问、agentic skill 和本地自动化。
 - [Obsidian CLI](items/obsidian-cli.md) - Obsidian 官方命令行接口，把知识库读写、TUI、无头同步和自动化工作流带进终端与脚本环境。
