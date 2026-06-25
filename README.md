@@ -12,6 +12,7 @@
 - [CLI-Anything](items/cli-anything.md) - 一个把任意软件快速变成 agent-native CLI 的框架，支持为 Claude Code、Codex、OpenClaw 等代理生成可调用命令层和对应技能定义。
 - [jina-cli](items/jina-cli.md) - 一个把任意网页转换成 LLM 友好输入的 CLI，支持 read 与 search，并可直接接入 Claude Code 或 OpenClaw。
 - [OpenCLI](items/opencli.md) - 一个把网站、浏览器会话、Electron 应用和本地命令行统一暴露给人类与 AI Agent 的自动化 CLI 中枢。
+- [RunAPI CLI](items/runapi-cli.md) - 一个用 JSON-first 命令运行 AI 图片、视频、音乐、语音和 LLM 任务的统一模型 CLI。
 
 ## 从哪里开始
 
@@ -46,6 +47,7 @@
 - [Pandoc](items/pandoc.md) - 一个通用文档格式转换器，支持 Markdown、HTML、LaTeX、PDF、DOCX、EPUB 等多种格式互转。
 - [rclone](items/rclone.md) - 一个覆盖大量云存储与对象存储后端的命令行同步工具，适合在终端里统一做传输、备份、挂载和自动化数据流转。
 - [ripgrep](items/ripgrep.md) - 一个极快的递归文本搜索工具，默认尊重 .gitignore，适合在大型代码库中替代 grep 做模式搜索。
+- [RunAPI CLI](items/runapi-cli.md) - 一个用 JSON-first 命令运行 AI 图片、视频、音乐、语音和 LLM 任务的统一模型 CLI。
 - [rtk](items/rtk.md) - 一个面向 Claude Code、Cursor、Gemini CLI 等工具的 CLI 代理层，可压缩常见开发命令输出，减少进入模型上下文的 token 开销。
 - [textutil](items/textutil.md) - macOS 自带的文档与富文本转换 CLI，可在终端里查看、拼接并转换 TXT、HTML、RTF、DOCX、ODT 等格式。
 - [Vercel CLI](items/vercel-cli.md) - Vercel 官方命令行工具，用来在终端里完成项目拉取、开发、部署与环境管理。
