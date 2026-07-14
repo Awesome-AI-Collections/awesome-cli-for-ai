@@ -43,6 +43,7 @@
 - [ncm-cli](items/ncm-cli.md) - 一个面向网易云音乐的命令行客户端，支持搜索、播放、歌单管理和 TUI 播放器，并可接入 AI agent。
 - [OfficeCLI](items/officecli.md) - 一个让 AI agents 直接读取、编辑和生成 Word、Excel、PowerPoint 文件的 Office 自动化 CLI，无需安装 Microsoft Office。
 - [OpenCLI](items/opencli.md) - 一个把网站、浏览器会话、Electron 应用和本地命令行统一暴露给人类与 AI Agent 的自动化 CLI 中枢。
+- [OpenAgentRelay](items/openagentrelay.md) - 一个把受限的本地 Agent 或自动化命令变成可信局域网可调用能力的开源 CLI，同时让源码、提示词、依赖与凭据继续留在发布端。
 - [Pandoc](items/pandoc.md) - 一个通用文档格式转换器，支持 Markdown、HTML、LaTeX、PDF、DOCX、EPUB 等多种格式互转。
 - [rclone](items/rclone.md) - 一个覆盖大量云存储与对象存储后端的命令行同步工具，适合在终端里统一做传输、备份、挂载和自动化数据流转。
 - [ripgrep](items/ripgrep.md) - 一个极快的递归文本搜索工具，默认尊重 .gitignore，适合在大型代码库中替代 grep 做模式搜索。
