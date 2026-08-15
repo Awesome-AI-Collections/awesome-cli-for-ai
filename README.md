@@ -47,6 +47,7 @@
 - [rclone](items/rclone.md) - 一个覆盖大量云存储与对象存储后端的命令行同步工具，适合在终端里统一做传输、备份、挂载和自动化数据流转。
 - [ripgrep](items/ripgrep.md) - 一个极快的递归文本搜索工具，默认尊重 .gitignore，适合在大型代码库中替代 grep 做模式搜索。
 - [rtk](items/rtk.md) - 一个面向 Claude Code、Cursor、Gemini CLI 等工具的 CLI 代理层，可压缩常见开发命令输出，减少进入模型上下文的 token 开销。
+- [SandBase CLI](items/sandbase-cli.md) - 一个把 AI 编程 Agent 连接到 2,000+ AI 模型的开源 CLI，通过 MCP 提供搜索、数据、多模态生成与云端沙箱能力。
 - [textutil](items/textutil.md) - macOS 自带的文档与富文本转换 CLI，可在终端里查看、拼接并转换 TXT、HTML、RTF、DOCX、ODT 等格式。
 - [Vercel CLI](items/vercel-cli.md) - Vercel 官方命令行工具，用来在终端里完成项目拉取、开发、部署与环境管理。
 - [wecom-cli](items/wecom-cli.md) - 企业微信开放平台命令行工具，让人类和 AI Agent 都能在终端中操作企业微信。
@@ -82,6 +83,7 @@
 - [KBB](items/kbb.md) - 一个面向 Claude Code 的知识库文章生成 CLI / MCP：把研究、资料采集、MarkItDown 转换、画图和发布串成一条命令式流水线。
 - [n8n-MCP](items/n8n-mcp.md) - 一个把 n8n 节点文档、模板、校验与工作流操作暴露给 Claude、Codex、Cursor 等客户端的 MCP server 和 agent 工具层。
 - [OneCLI](items/onecli.md) - 一个给 AI agents 统一管理和注入 API 密钥的开源凭据网关，让 agents 用占位符调用服务而不直接接触真实 secrets。
+- [SandBase CLI](items/sandbase-cli.md) - 一个通过本地 MCP bridge 把 Cursor、Claude Code、Codex 等 AI 客户端接入统一工具与模型平台的开源 CLI。
 - [Shopify AI Toolkit](items/shopify-ai-toolkit.md) - Shopify 官方的 AI 工具接入方案，支持通过 plugin、skills 或 MCP 把平台文档、API schema、代码校验和店铺操作能力接入 agent 工具链。
 
 ### Prompt / Context Management
