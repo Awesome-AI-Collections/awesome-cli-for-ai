@@ -47,7 +47,7 @@
 - [rclone](items/rclone.md) - 一个覆盖大量云存储与对象存储后端的命令行同步工具，适合在终端里统一做传输、备份、挂载和自动化数据流转。
 - [ripgrep](items/ripgrep.md) - 一个极快的递归文本搜索工具，默认尊重 .gitignore，适合在大型代码库中替代 grep 做模式搜索。
 - [rtk](items/rtk.md) - 一个面向 Claude Code、Cursor、Gemini CLI 等工具的 CLI 代理层，可压缩常见开发命令输出，减少进入模型上下文的 token 开销。
-- [SandBase CLI](items/sandbase-cli.md) - 一个把 AI 编程 Agent 连接到 2,000+ 工具和 200+ AI 模型的开源 CLI，通过 MCP 提供搜索、数据、多模态生成与云端沙箱能力。
+- [SandBase CLI](items/sandbase-cli.md) - 一个把 AI 编程 Agent 连接到 2,000+ AI 模型的开源 CLI，通过 MCP 提供搜索、数据、多模态生成与云端沙箱能力。
 - [textutil](items/textutil.md) - macOS 自带的文档与富文本转换 CLI，可在终端里查看、拼接并转换 TXT、HTML、RTF、DOCX、ODT 等格式。
 - [Vercel CLI](items/vercel-cli.md) - Vercel 官方命令行工具，用来在终端里完成项目拉取、开发、部署与环境管理。
 - [wecom-cli](items/wecom-cli.md) - 企业微信开放平台命令行工具，让人类和 AI Agent 都能在终端中操作企业微信。
