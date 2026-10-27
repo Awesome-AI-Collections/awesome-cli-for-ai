@@ -73,6 +73,7 @@
 
 适合在终端里管理 MCP、工具接入和 agent 扩展能力。
 
+- [Agent Payment Node](items/agent-payment-node.md) - 面向 AI agent 的本地 x402 支付运行时，提供 CLI 与 stdio MCP，用于报价检查、受限支付准备和状态/回执查询；仅支持 Apple Silicon macOS 与 Node 24。
 - [Agent Reach](items/agent-reach.md) - 一个给 AI Agent 补齐跨平台互联网读取能力的开源工具集，统一接入 YouTube、Twitter/X、Reddit、小红书、B站、GitHub 和 RSS 等数据来源。
 - [bb-browser](items/bb-browser.md) - 一个把真实已登录浏览器直接变成 API / CLI / MCP 接口的工具，让 AI Agent 低成本访问多平台内容与交互能力。
 - [Cloudflare Browser Rendering](items/cloudflare-browser-rendering.md) - Cloudflare Browser Rendering 新增 CDP endpoint 与 MCP client 支持，让现有 Puppeteer、Playwright 和 chrome-devtools-mcp 工具能直接连到 Cloudflare 的远程浏览器。
